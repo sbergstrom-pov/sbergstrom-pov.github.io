@@ -8,4 +8,4 @@ Here is a Time Series Decomposition I used in my CTBA course:
 -  [Time Series Decomposition (ipynb)](./TimeSeriesDecomposition-(3)-1.ipynb)
 
 Back to main repo landing page:
-- [Back to main repo page](https://sbergstrom-pov.github.io/)
+- [Back to main repo website](https://sbergstrom-pov.github.io/)
